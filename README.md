@@ -70,21 +70,28 @@ Project Pics
 
 1.) SignUp Page
 
+
 ![image](https://github.com/user-attachments/assets/f073ce2c-0ad6-40b6-8374-e2f02560a1a1)
 
 
 2.) Login Page
+
 
 ![image](https://github.com/user-attachments/assets/c4862ccd-1892-4ba2-b3dd-17a7d7bbd792)
 
 
 3.) Chatting Interface
 
+
 ![image](https://github.com/user-attachments/assets/31203d8b-1e7c-417f-9db1-f06653d627ad)
 
 
+💻 Developed By:
 
- ----- The End ----
+[Gopi Kumar] – Student & Developer
+
+Feel free to reach out with suggestions or contributions.
+
 ---
 
 
