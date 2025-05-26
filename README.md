@@ -10,7 +10,7 @@ This is a minimal real-time chat application built using **Node.js** and **Socke
 - Built with simplicity in mind
 - Uses Socket.io for real-time bidirectional communication
 
-> ⚠️ This app is for educational/demo purposes only. It does not include authentication any type of private messaging.
+> ⚠️ This app is for educational/demo purposes only. It does not include any type of private messaging.
 
 ---
 
