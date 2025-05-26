@@ -27,7 +27,7 @@ This is a minimal real-time chat application built using **Node.js** and **Socke
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/chatapp.git
+   git clone https://github.com/Gopi-Kumar18/ChatApp_Node.js.git
    cd chatapp
 
 
